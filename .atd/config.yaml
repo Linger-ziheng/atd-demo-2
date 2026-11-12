@@ -1,0 +1,6 @@
+atd: 1
+backend: github
+base_branch: main
+members:
+  - login: Linger-ziheng
+    role: lead
